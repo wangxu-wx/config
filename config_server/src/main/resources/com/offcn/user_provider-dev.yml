@@ -1,3 +1,5 @@
+testRefresh: haha123
+
 server:
   port: 8001
 spring:
